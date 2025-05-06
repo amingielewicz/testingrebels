@@ -1,0 +1,16 @@
+title: Testing Anarchy
+description: >-
+  Blog o testowaniu oprogramowania, API, automatyzacji i nie tylko.
+author: PanekAdamek
+email: panekadamek@example.com
+
+baseurl: "" # jeśli będzie hostowane np. na GitHub Pages w podfolderze, tu wpisz np. "/testingrebels"
+url: "http://localhost:4000" # docelowo np. https://testinganarchy.pl
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
